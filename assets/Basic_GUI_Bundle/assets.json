@@ -1,0 +1,453 @@
+{
+  "meta": {
+    "description": "Basic GUI Bundle - UI asset index for Phaser",
+    "basePath": "assets/Basic_GUI_Bundle"
+  },
+  "ui": {
+    "boxesBanners": {
+      "banners": {
+        "blank": "BoxesBanners/Banner_Blank.png",
+        "blue": "BoxesBanners/Banner_Blue.png",
+        "green": "BoxesBanners/Banner_Green.png",
+        "grey": "BoxesBanners/Banner_Grey.png",
+        "orange": "BoxesBanners/Banner_Orange.png",
+        "red": "BoxesBanners/Banner_Red.png",
+        "whiteOutline": "BoxesBanners/Banner_WhiteOutine.png"
+      },
+      "boxes": {
+        "blank": {
+          "rounded": "BoxesBanners/Box_Blank_Rounded.png",
+          "square": "BoxesBanners/Box_Blank_Square.png"
+        },
+        "blue": {
+          "rounded": "BoxesBanners/Box_Blue_Rounded.png",
+          "square": "BoxesBanners/Box_Blue_Square.png"
+        },
+        "orange": {
+          "rounded": "BoxesBanners/Box_Orange_Rounded.png",
+          "square": "BoxesBanners/Box_Orange_Square.png"
+        },
+        "default": {
+          "rounded": "BoxesBanners/Box_Rounded.png",
+          "square": "BoxesBanners/Box_Square.png"
+        },
+        "whiteOutline": {
+          "rounded": "BoxesBanners/Box_WhiteOutline_Rounded.png",
+          "square": "BoxesBanners/Box_WhiteOutline_Square.png"
+        }
+      },
+      "textBoxes": {
+        "blank": {
+          "middle": "BoxesBanners/TextBox_Blank_Middle.png",
+          "side": "BoxesBanners/TextBox_Blank_Side.png"
+        },
+        "green": {
+          "middle": "BoxesBanners/TextBox_Green_Middle.png",
+          "side": "BoxesBanners/TextBox_Green_Side.png"
+        },
+        "default": {
+          "middle": "BoxesBanners/TextBox_Middle.png",
+          "side": "BoxesBanners/TextBox_Side.png"
+        }
+      }
+    },
+    "buttonsIcons": {
+      "large": {
+        "background": {
+          "circle": "ButtonsIcons/IconButton_Large_Background_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Large_Background_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Large_Background_Square.png"
+        },
+        "blank": {
+          "circle": "ButtonsIcons/IconButton_Large_Blank_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Large_Blank_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Large_Blank_Square.png"
+        },
+        "blue": {
+          "circle": "ButtonsIcons/IconButton_Large_Blue_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Large_Blue_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Large_Blue_Square.png"
+        },
+        "green": {
+          "circle": "ButtonsIcons/IconButton_Large_Green_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Large_Green_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Large_Green_Square.png"
+        },
+        "greyOutline": {
+          "circle": "ButtonsIcons/IconButton_Large_GreyOutline_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Large_GreyOutline_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Large_GreyOutline_Square.png"
+        },
+        "orange": {
+          "circle": "ButtonsIcons/IconButton_Large_Orange_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Large_Orange_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Large_Orange_Square.png"
+        },
+        "red": {
+          "circle": "ButtonsIcons/IconButton_Large_Red_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Large_Red_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Large_Red_Square.png"
+        },
+        "default": {
+          "circle": "ButtonsIcons/IconButton_Large_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Large_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Large_Square.png"
+        }
+      },
+      "small": {
+        "background": {
+          "circle": "ButtonsIcons/IconButton_Small_Background_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Small_Background_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Small_Background_Square.png"
+        },
+        "blank": {
+          "circle": "ButtonsIcons/IconButton_Small_Blank_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Small_Blank_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Small_Blank_Square.png"
+        },
+        "blue": {
+          "circle": "ButtonsIcons/IconButton_Small_Blue_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Small_Blue_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Small_Blue_Square.png"
+        },
+        "green": {
+          "circle": "ButtonsIcons/IconButton_Small_Green_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Small_Green_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Small_Green_Square.png"
+        },
+        "greyOutline": {
+          "circle": "ButtonsIcons/IconButton_Small_GreyOutline_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Small_GreyOutline_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Small_GreyOutline_Square.png"
+        },
+        "orange": {
+          "circle": "ButtonsIcons/IconButton_Small_Orange_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Small_Orange_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Small_Orange_Square.png"
+        },
+        "red": {
+          "circle": "ButtonsIcons/IconButton_Small_Red_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Small_Red_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Small_Red_Square.png"
+        },
+        "default": {
+          "circle": "ButtonsIcons/IconButton_Small_Circle.png",
+          "rounded": "ButtonsIcons/IconButton_Small_Rounded.png",
+          "square": "ButtonsIcons/IconButton_Small_Square.png"
+        }
+      }
+    },
+    "buttonsText": {
+      "large": {
+        "blank": {
+          "round": "ButtonsText/ButtonText_Large_Blank_Round.png",
+          "square": "ButtonsText/ButtonText_Large_Blank_Square.png"
+        },
+        "blue": {
+          "round": "ButtonsText/ButtonText_Large_Blue_Round.png",
+          "square": "ButtonsText/ButtonText_Large_Blue_Square.png"
+        },
+        "green": {
+          "round": "ButtonsText/ButtonText_Large_Green_Round.png",
+          "square": "ButtonsText/ButtonText_Large_Green_Square.png"
+        },
+        "greyOutline": {
+          "round": "ButtonsText/ButtonText_Large_GreyOutline_Round.png",
+          "square": "ButtonsText/ButtonText_Large_GreyOutline_Square.png",
+          "squareAlt": "ButtonsText/ButtonText_Large_GreyOutline_Square_1.png"
+        },
+        "orange": {
+          "round": "ButtonsText/ButtonText_Large_Orange_Round.png",
+          "square": "ButtonsText/ButtonText_Large_Orange_Square.png"
+        },
+        "default": {
+          "round": "ButtonsText/ButtonText_Large_Round.png",
+          "square": "ButtonsText/ButtonText_Large_Square.png"
+        }
+      },
+      "small": {
+        "blank": {
+          "round": "ButtonsText/ButtonText_Small_Blank_Round.png",
+          "square": "ButtonsText/ButtonText_Small_Blank_Square.png"
+        },
+        "blue": {
+          "round": "ButtonsText/ButtonText_Small_Blue_Round.png",
+          "square": "ButtonsText/ButtonText_Small_Blue_Square.png"
+        },
+        "green": {
+          "round": "ButtonsText/ButtonText_Small_Green_Round.png",
+          "square": "ButtonsText/ButtonText_Small_Green_Square.png"
+        },
+        "greyOutline": {
+          "round": "ButtonsText/ButtonText_Small_GreyOutline_Round.png"
+        },
+        "orange": {
+          "round": "ButtonsText/ButtonText_Small_Orange_Round.png",
+          "square": "ButtonsText/ButtonText_Small_Orange_Square.png"
+        },
+        "default": {
+          "round": "ButtonsText/ButtonText_Small_ROund.png",
+          "square": "ButtonsText/ButtonText_Small_Square.png"
+        }
+      },
+      "onOff": {
+        "background": {
+          "default": "ButtonsText/ButtonText_OnOffBackground.png",
+          "blank": "ButtonsText/ButtonText_Blank_OnOffBackground.png",
+          "blue": "ButtonsText/ButtonText_Blue_OnOffBackground.png",
+          "orange": "ButtonsText/ButtonText_Orange_OnOffBackground.png",
+          "backgroundStyle": "ButtonsText/ButtonText_Background_OnOffBackground.png"
+        },
+        "button": {
+          "default": "ButtonsText/ButtonText_OnOffButton.png",
+          "blank": "ButtonsText/ButtonText_Blank_OnOffButton.png",
+          "blue": "ButtonsText/ButtonText_Blue_OnOffButton.png",
+          "green": "ButtonsText/ButtonText_Geen_OnOffButton.png",
+          "orange": "ButtonsText/ButtonText_Orange_OnOffButton.png"
+        }
+      },
+      "textFields": {
+        "default": "ButtonsText/ButtonText_Textfield.png",
+        "blank": "ButtonsText/ButtonText_Blank_TextField.png",
+        "blue": "ButtonsText/ButtonText_Blue_TextField.png",
+        "orange": "ButtonsText/ButtonText_Orange_TextField.png"
+      },
+      "textInputs": {
+        "default": "ButtonsText/ButtonText_TextInput.png",
+        "blank": "ButtonsText/ButtonText_Blank_TextInput.png",
+        "blue": "ButtonsText/ButtonText_Blue_TextInput.png",
+        "orange": "ButtonsText/ButtonText_Orange_TextInput.png"
+      },
+      "premade": {
+        "check": "ButtonsText/PremadeButtons_Check.png",
+        "exitOrange": "ButtonsText/PremadeButtons_ExitOrange.png",
+        "exitRed": "ButtonsText/PremadeButtons_ExitRed.png",
+        "menu": "ButtonsText/PremadeButtons_Menu.png",
+        "no": "ButtonsText/PremadeButtons_No.png",
+        "options": "ButtonsText/PremadeButtons_Options.png",
+        "replay": "ButtonsText/PremadeButtons_Replay.png",
+        "resume": "ButtonsText/PremadeButtons_Resume.png",
+        "select": "ButtonsText/PremadeButtons_Select.png",
+        "shop": "ButtonsText/PremadeButtons_Shop.png",
+        "xGreen": "ButtonsText/PremadeButtons_XGreen.png",
+        "xGreenWhiteOutline": "ButtonsText/PremadeButtons_XGreenWhiteOutline.png",
+        "xRed": "ButtonsText/PremadeButtons_XRed.png",
+        "xWhiteOutline": "ButtonsText/PremadeButtons_XWhiteOutline.png",
+        "yesGreen": "ButtonsText/PremadeButtons_YesGreen.png",
+        "yesOrange": "ButtonsText/PremadeButtons_YesOrange.png"
+      }
+    },
+    "icons": {
+      "large": {
+        "audio": {
+          "blank": "Icons/Icon_Large_Audio_Blank.png",
+          "grey": "Icons/Icon_Large_Audio_Grey.png"
+        },
+        "audioOff": {
+          "blank": "Icons/Icon_Large_AudioOff_Blank.png",
+          "grey": "Icons/Icon_Large_AudioOff_Grey.png"
+        },
+        "heart": {
+          "empty": "Icons/Icon_Large_HeartEmpty.png",
+          "emptySeethroughOutline": "Icons/Icon_Large_HeartEmpty_SeethroughOutline.png",
+          "emptyWhiteOutline": "Icons/Icon_Large_HeartEmpty_WhiteOutline.png",
+          "full": "Icons/Icon_Large_HeartFull.png",
+          "fullSeethroughOutline": "Icons/Icon_Large_HeartFull_SeethroughOutline.png",
+          "fullWhiteOutline": "Icons/Icon_Large_HeartFull_WhiteOutline.png",
+          "half": "Icons/Icon_Large_HeartHalf.png",
+          "halfSeethroughOutline": "Icons/Icon_Large_HeartHalf_SeethroughOutline.png",
+          "halfWhiteOutline": "Icons/Icon_Large_HeartHalf_WhiteOutline.png"
+        },
+        "menu": {
+          "blank": "Icons/Icon_Large_Menu_Blank.png",
+          "grey": "Icons/Icon_Large_Menu_Grey.png"
+        },
+        "music": {
+          "blank": "Icons/Icon_Large_Music_Blank.png",
+          "grey": "Icons/Icon_Large_Music_Grey.png"
+        },
+        "musicOff": {
+          "blank": "Icons/Icon_Large_MusicOff_Blank.png",
+          "grey": "Icons/Icon_Large_MusicOff_Grey.png"
+        },
+        "star": {
+          "default": "Icons/Icon_Large_Star.png",
+          "seethroughOutline": "Icons/Icon_Large_Star_SeethroughOutline.png",
+          "whiteOutline": "Icons/Icon_Large_Star_WhiteOutline.png",
+          "grey": "Icons/Icon_Large_StarGrey.png",
+          "greySeethroughOutline": "Icons/Icon_Large_StarSrey_SeethroughOutline.png",
+          "greyWhiteOutline": "Icons/Icon_Large_StarGrey_WhiteOutline.png"
+        }
+      },
+      "small": {
+        "blank": {
+          "arrow": "Icons/Icon_Small_Blank_Arrow.png",
+          "audio": "Icons/Icon_Small_Blank_Audio.png",
+          "audioOff": "Icons/Icon_Small_Blank_AudioOff.png",
+          "check": "Icons/Icon_Small_Blank_Check.png",
+          "dollar": "Icons/Icon_Small_Blank_Dollar.png",
+          "euro": "Icons/Icon_Small_Blank_Euro.png",
+          "help": "Icons/Icon_Small_Blank_Help.png",
+          "home": "Icons/Icon_Small_Blank_Home.png",
+          "info": "Icons/Icon_Small_Blank_Info.png",
+          "menu": "Icons/Icon_Small_Blank_Menu.png",
+          "music": "Icons/Icon_Small_Blank_Music.png",
+          "musicOff": "Icons/Icon_Small_Blank_MusicOff.png",
+          "pause": "Icons/Icon_Small_Blank_Pause.png",
+          "pounds": "Icons/Icon_Small_Blank_Pounds.png",
+          "return": "Icons/Icon_Small_Blank_Return.png",
+          "shop": "Icons/Icon_Small_Blank_Shop.png",
+          "x": "Icons/Icon_Small_Blank_X.png",
+          "yen": "Icons/Icon_Small_Blank_Yen.png"
+        },
+        "whiteOutline": {
+          "arrow": "Icons/Icon_Small_WhiteOutline_Arrow.png",
+          "audio": "Icons/Icon_Small_WhiteOutline_Audio.png",
+          "audioOff": "Icons/Icon_Small_WhiteOutline_AudioOff.png",
+          "check": "Icons/Icon_Small_WhiteOutline_Check.png",
+          "coin": "Icons/Icon_Small_WhiteOutline_Coin.png",
+          "diamond": "Icons/Icon_Small_WhiteOutline_Diamond.png",
+          "heartEmpty": "Icons/Icon_Small_WhiteOutline_HeartEmpty.png",
+          "heartFull": "Icons/Icon_Small_WhiteOutline_HeartFull.png",
+          "heartHalf": "Icons/Icon_Small_WhiteOutline_HeartHalf.png",
+          "home": "Icons/Icon_Small_WhiteOutline_Home.png",
+          "key": "Icons/Icon_Small_WhiteOutline_Key.png",
+          "lock": "Icons/Icon_Small_WhiteOutline_Logk.png",
+          "lookingGlass": "Icons/Icon_Small_WhiteOutline_LookingGlass.png",
+          "menu": "Icons/Icon_Small_WhiteOutline_Menu.png",
+          "music": "Icons/Icon_Small_WhiteOutline_Music.png",
+          "musicOff": "Icons/Icon_Small_WhiteOutline_MusicOff.png",
+          "pause": "Icons/Icon_Small_WhiteOutline_Pause.png",
+          "return": "Icons/Icon_Small_WhiteOutline_Return.png",
+          "shop": "Icons/Icon_Small_WhiteOutline_Shop.png",
+          "star": "Icons/Icon_Small_WhiteOutline_Star.png",
+          "starGrey": "Icons/Icon_Small_WhiteOutline_StarGrey.png",
+          "x": "Icons/Icon_Small_WhiteOutline_X.png"
+        },
+        "coin": "Icons/Icon_Small_Coin.png",
+        "coinDollar": "Icons/Icon_Small_CoinDollar.png",
+        "coinEuro": "Icons/Icon_Small_CoinEuro.png",
+        "coinPound": "Icons/Icon_Small_CoinPound.png",
+        "coinYen": "Icons/Icon_Small_CoinYen.png",
+        "diamond": "Icons/Icon_Small_Diamond.png",
+        "heartEmpty": "Icons/Icon_Small_HeartEmpty.png",
+        "heartFull": "Icons/Icon_Small_HeartFull.png",
+        "heartHalf": "Icons/Icon_Small_HeartHalf.png",
+        "key": "Icons/Icon_Small_Key.png",
+        "lock": "Icons/Icon_Small_Lock.png",
+        "lookingGlass": "Icons/Icon_Small_LookingGlass.png",
+        "star": "Icons/Icon_Small_Star.png",
+        "starGrey": "Icons/Icon_Small_StarGrey.png"
+      }
+    },
+    "sliders": {
+      "scrollBar": {
+        "default": {
+          "button": "Sliders/ScrollBar_Button.png",
+          "pointer": "Sliders/ScrollBar_Pointer.png",
+          "scroller": "Sliders/ScrollBar_Scroller.png"
+        },
+        "blank": {
+          "base": "Sliders/ScrollBar_Blank_Base.png",
+          "button": "Sliders/ScrollBar_Blank_Button.png",
+          "pointer": "Sliders/ScrollBar_Blank_Pointer.png",
+          "scroller": "Sliders/ScrollBar_Blank_Scroller.png"
+        },
+        "blue": {
+          "base": "Sliders/ScrollBar_Blue_Base.png",
+          "button": "Sliders/ScrollBar_Blue_Button.png",
+          "pointer": "Sliders/ScrollBar_Blue_Pointer.png",
+          "scroller": "Sliders/ScrollBar_Blue_Scroller.png"
+        },
+        "orange": {
+          "base": "Sliders/ScrollBar_Orange_Base.png",
+          "button": "Sliders/ScrollBar_Orange_Button.png",
+          "pointer": "Sliders/ScrollBar_Orange_Pointer.png",
+          "scroller": "Sliders/ScrollBar_Orange_Scroller.png"
+        },
+        "red": {
+          "button": "Sliders/ScrollBar_Red_Button.png"
+        },
+        "whiteOutline": {
+          "base": "Sliders/ScrollBar_WhiteOutline_Base.png"
+        }
+      },
+      "scrollSlider": {
+        "arrow": "Sliders/ScrollSlider_Arrow.png",
+        "blankArrow": "Sliders/ScrollSlider_Blank_Arrow.png",
+        "whiteOutlineArrow": "Sliders/ScrollSlider_WhiteOutline_Arrow.png"
+      },
+      "slimSlider": {
+        "default": {
+          "background": "Sliders/SlimSlider_Background.png",
+          "base": "Sliders/SlimSlider_Base.png",
+          "button": "Sliders/SlimSlider_Button.png",
+          "frame": "Sliders/SlimSlider_Frame.png",
+          "scroller": "Sliders/SlimSlider_Scroller.png"
+        },
+        "blue": {
+          "background": "Sliders/SlimSlider_Blue_Background.png",
+          "button": "Sliders/SlimSlider_Blue_Button.png",
+          "frame": "Sliders/SlimSlider_Blue_Frame.png",
+          "scroller": "Sliders/SlimSlider_Blue_Scroller.png"
+        },
+        "green": {
+          "pointer": "Sliders/SlimSlider_Green_Pointer.png",
+          "scroller": "Sliders/SlimSlider_Green_Scoller.png",
+          "scrollerAlt": "Sliders/SlimSlider_Scroller_Green.png"
+        },
+        "orange": {
+          "background": "Sliders/SlimSlider_Orange_Background.png",
+          "button": "Sliders/SlimSlider_Orange_Button.png",
+          "frame": "Sliders/SlimSlider_Orange_Frame.png",
+          "scroller": "Sliders/SlimSlider_Orange_Scroller.png"
+        },
+        "red": {
+          "button": "Sliders/SlimSlider_Red_Button.png"
+        },
+        "whiteOutline": {
+          "frame": "Sliders/SlimSlider_WhiteOutline_Frame.png"
+        }
+      },
+      "wideSlider": {
+        "default": {
+          "background": "Sliders/WideSlider_Background.png",
+          "button": "Sliders/WideSlider_Button.png",
+          "frame": "Sliders/WideSlider_Frame.png",
+          "scroller": "Sliders/WideSlider_Scroller.png"
+        },
+        "blank": {
+          "background": "Sliders/WideSlider_Blank_Background.png",
+          "backgroundAlt": "Sliders/WideSlider_Blank_Background_1.png",
+          "button": "Sliders/WideSlider_Blank_Button.png",
+          "buttonAlt": "Sliders/WideSlider_Blank_Button_1.png",
+          "frame": "Sliders/WideSlider_Blank_Frame.png",
+          "frameAlt": "Sliders/WideSlider_Blank_Frame_1.png",
+          "scroller": "Sliders/WideSlider_Blank_Scroller.png",
+          "scrollerAlt": "Sliders/WideSlider_Blank_Scroller_1.png"
+        },
+        "blue": {
+          "background": "Sliders/WideSlider_Blue_Background.png",
+          "button": "Sliders/WideSlider_Blue_Button.png",
+          "frame": "Sliders/WideSlider_Blue_Frame.png",
+          "scroller": "Sliders/WideSlider_Blue_Scroller.png"
+        },
+        "green": {
+          "scroller": "Sliders/WideSLider_Green_Scroller.png"
+        },
+        "orange": {
+          "background": "Sliders/WideSlider_Orange_Background.png",
+          "button": "Sliders/WideSlider_Orange_Button.png",
+          "frame": "Sliders/WideSlider_Orange_Frame.png",
+          "scroller": "Sliders/WideSlider_Orange_Scroller.png"
+        },
+        "red": {
+          "button": "Sliders/WideSlider_Red_Button.png"
+        },
+        "whiteOutline": {
+          "frame": "Sliders/WideSlider_WhiteOutline_Frame.png"
+        }
+      }
+    }
+  }
+}

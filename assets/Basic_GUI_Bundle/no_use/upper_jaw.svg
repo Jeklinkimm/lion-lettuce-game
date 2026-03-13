@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 174" fill="none">
+  <!-- Mane (behind head) -->
+  <ellipse cx="200" cy="100" rx="195" ry="95" fill="#E8B84A" opacity="0.5"/>
+  <ellipse cx="200" cy="95" rx="180" ry="88" fill="#F5C85C"/>
+
+  <!-- Head (upper jaw body) -->
+  <path d="M40,140 Q40,30 200,25 Q360,30 360,140 Q300,155 200,160 Q100,155 40,140Z"
+        fill="#FFE8A8" stroke="#B8874A" stroke-width="5"/>
+
+  <!-- Ears -->
+  <circle cx="70" cy="50" r="35" fill="#FFE8A8" stroke="#B8874A" stroke-width="4"/>
+  <circle cx="70" cy="50" r="20" fill="#FFD6E8"/>
+  <circle cx="330" cy="50" r="35" fill="#FFE8A8" stroke="#B8874A" stroke-width="4"/>
+  <circle cx="330" cy="50" r="20" fill="#FFD6E8"/>
+
+  <!-- Eyes -->
+  <ellipse cx="145" cy="85" rx="22" ry="25" fill="#fff" stroke="#B8874A" stroke-width="3"/>
+  <ellipse cx="145" cy="88" rx="12" ry="14" fill="#5a4a2f"/>
+  <ellipse cx="141" cy="82" rx="5" ry="6" fill="#fff"/>
+
+  <ellipse cx="255" cy="85" rx="22" ry="25" fill="#fff" stroke="#B8874A" stroke-width="3"/>
+  <ellipse cx="255" cy="88" rx="12" ry="14" fill="#5a4a2f"/>
+  <ellipse cx="251" cy="82" rx="5" ry="6" fill="#fff"/>
+
+  <!-- Nose -->
+  <ellipse cx="200" cy="118" rx="18" ry="13" fill="#B8874A"/>
+  <ellipse cx="200" cy="116" rx="6" ry="4" fill="#D4A85A"/>
+
+  <!-- Upper teeth (bottom edge) - tips at y=172, at viewBox bottom -->
+  <path d="M120,155 L135,172 L150,155 L165,172 L180,155 L195,172 L210,155 L225,172 L240,155 L255,172 L270,155"
+        fill="#fff" stroke="#B8874A" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- Whisker dots -->
+  <circle cx="165" cy="128" r="3" fill="#B8874A"/>
+  <circle cx="155" cy="135" r="3" fill="#B8874A"/>
+  <circle cx="175" cy="138" r="3" fill="#B8874A"/>
+  <circle cx="235" cy="128" r="3" fill="#B8874A"/>
+  <circle cx="245" cy="135" r="3" fill="#B8874A"/>
+  <circle cx="225" cy="138" r="3" fill="#B8874A"/>
+</svg>

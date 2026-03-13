@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -14 400 154" fill="none">
+  <!-- Lower jaw body -->
+  <path d="M60,0 Q100,-5 200,0 Q300,-5 340,0 Q355,60 320,100 Q280,135 200,140 Q120,135 80,100 Q45,60 60,0Z"
+        fill="#FFE8A8" stroke="#B8874A" stroke-width="5"/>
+
+  <!-- Lower teeth (top edge) - tips at y=-12, visible within viewBox -->
+  <path d="M125,5 L140,-12 L155,5 L170,-12 L185,5 L200,-12 L215,5 L230,-12 L245,5 L260,-12 L275,5"
+        fill="#fff" stroke="#B8874A" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- Tongue -->
+  <ellipse cx="200" cy="65" rx="55" ry="40" fill="#FFB0B0"/>
+  <ellipse cx="200" cy="58" rx="35" ry="22" fill="#FFC8C8"/>
+  <line x1="200" y1="40" x2="200" y2="95" stroke="#E89090" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Chin tuft -->
+  <ellipse cx="200" cy="125" rx="25" ry="12" fill="#F5C85C" opacity="0.6"/>
+</svg>
